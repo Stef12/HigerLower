@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Higer / Lower</string>
+
+    <string name="score">score: </string>
+    <string name="highscore">highscore: </string>
+    <string name="emptyScore">...</string>
+</resources>
